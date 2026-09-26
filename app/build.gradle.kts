@@ -22,8 +22,8 @@ android {
         applicationId = "com.ravan.foodie"
         minSdk = 24
         targetSdk = 34
-        versionCode = 2
-        versionName = "1.4.0"
+        versionCode = 3
+        versionName = "1.5.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables {
